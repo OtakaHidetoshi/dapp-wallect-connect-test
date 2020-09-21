@@ -2,7 +2,7 @@ const path = require('path')
 const { CleanWebpackPlugin } = require('clean-webpack-plugin')
 const CopyPlugin = require('copy-webpack-plugin')
 
-const DIST = path.resolve(__dirname, 'dist')
+const DIST = path.resolve(__dirname, 'public')
 
 module.exports = {
   mode: 'development',

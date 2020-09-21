@@ -19,7 +19,7 @@
     "url": "git+https://github.com/MetaMask/test-dapp.git"
   },
   "files": [
-    "dist/"
+    "public/"
   ],
   "author": "MetaMask",
   "license": "MIT",
